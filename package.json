@@ -1,0 +1,23 @@
+{
+  "name": "ContactList",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node ./seed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "nunjucks": "^3.0.1",
+    "pg": "^4.5.7",
+    "sequelize": "^4.6.0",
+    "volleyball": "^1.4.1",
+    "webpack": "^3.5.5"
+  }
+}
